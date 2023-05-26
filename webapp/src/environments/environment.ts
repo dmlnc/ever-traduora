@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  title: 'traduora',
+  title: 'RPT Translates',
   homepage: 'https://traduora.co',
   apiEndpoint: `http://localhost:8080/api/v1`,
   inviteOnly: false,
